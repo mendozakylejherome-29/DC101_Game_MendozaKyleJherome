@@ -15,8 +15,9 @@ How to Play:
 
 Try your Luck and beat the computer!
 
-Click the link below to play the game
-<a href="https://raw.githack.com/mendozakylejherome-29/DC101_Game_MendozaKyleJherome/refs/heads/main/Index.html">
-    Open My Game
+Click the image below to play the game!
+<a href="https://raw.githack.com/mendozakylejherome-29/DC101_Game_MendozaKyleJherome/refs/heads/main/Index.html" target="_blank">
+    <img width="1919" height="942" alt="Open My Game"
+         src="https://github.com/user-attachments/assets/12e0cca2-eaab-42e8-8753-186361015b70">
 </a>
-<img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/12e0cca2-eaab-42e8-8753-186361015b70" />
+
